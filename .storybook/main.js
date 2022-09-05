@@ -3,10 +3,7 @@ module.exports = {
     "../src/components/**/stories.tsx"
   ],
   "addons": [
-    "@storybook/addon-links",
-    "@storybook/addon-essentials",
-    "@storybook/addon-interactions",
-    '@storybook/addon-knobs'
+    "@storybook/addon-essentials"
   ],
   "framework": "@storybook/react",
   "core": {
